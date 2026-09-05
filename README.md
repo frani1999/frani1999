@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @frani1999
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning working with the environement
-- 💞️ I’m looking to collaborate on AI projects
+# Hi, I'm Francisco Bonilla Rivas 👋
 
-<!---
-frani1999/frani1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Engineer based in Málaga, Spain, with 5 years of experience developing software for telecommunications and wireless systems.
+
+I currently develop and deploy microservices and data-processing solutions for telecom operators. My background combines backend development, cloud-native software, test automation, computer vision and AI.
+
+## Core technologies
+
+- **Languages:** Python, C#, Rust, C/C++, SQL
+- **Backend:** FastAPI, REST APIs, .NET, Microservices
+- **Cloud & Infrastructure:** Docker, Kubernetes, Flux, k9s
+- **Data:** PostgreSQL, MongoDB, HBase, Apache NiFi
+- **AI & Computer Vision:** PyTorch, TensorFlow, OpenCV, YOLO, OCR
+
+## Featured work
+
+- **[IMDb Data Ingestion & API](https://github.com/frani1999/imdb-system):** Data ingestion system built with Python, FastAPI, PostgreSQL and Docker.
+- **[AI for Breast Cancer Detection and Diagnosis](https://github.com/frani1999/Artificial-Intelligence-for-Breast-Cancer-Detection-and-Diagnosis):** Final degree project applying artificial intelligence to medical-image analysis.
+- **[IEEE publication](https://ieeexplore.ieee.org/document/10193592):** Research on adapting YOLO to recognize real numbers displayed with 7-segment digits.
+
+## Find out more
+
+- 🌐 [Personal portfolio](https://frani1999.github.io/fbonilla.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/francisco-bonilla-rivas)

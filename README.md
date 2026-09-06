@@ -14,7 +14,7 @@ I currently develop and deploy microservices and data-processing solutions for t
 
 ## Featured work
 
-- **[IMDb Data Ingestion & API](https://github.com/frani1999/imdb-system):** Data ingestion system built with Python, FastAPI, PostgreSQL and Docker.
+- **[IMDb Data Ingestion & API](https://github.com/frani1999/imdb_system):** Data ingestion system built with Python, FastAPI, PostgreSQL and Docker.
 - **[AI for Breast Cancer Detection and Diagnosis](https://github.com/frani1999/Artificial-Intelligence-for-Breast-Cancer-Detection-and-Diagnosis):** Final degree project applying artificial intelligence to medical-image analysis.
 - **[IEEE publication](https://ieeexplore.ieee.org/document/10193592):** Research on adapting YOLO to recognize real numbers displayed with 7-segment digits.
 

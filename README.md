@@ -20,6 +20,5 @@ I currently develop and deploy microservices and data-processing solutions for t
 
 ## Find out more
 
-- 🌐 [Personal portfolio — Vercel](https://fbonilla-github-io.vercel.app/)
-- 🌐 [Personal portfolio — GitHub Pages](https://frani1999.github.io/fbonilla.github.io/)
+- 🌐 [Personal portfolio](https://fbonilla-github-io.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/francisco-bonilla-rivas)
